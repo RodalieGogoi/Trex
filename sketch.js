@@ -125,7 +125,7 @@ score = score + Math.round(getFrameRate() / 60);
   
   trex.changeAnimation("running", trex_running);
   
-  count = 0;
+  score = 0;
   
 }
 function spawnClouds() {
